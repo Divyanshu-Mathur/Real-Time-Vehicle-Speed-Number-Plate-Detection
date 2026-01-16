@@ -114,7 +114,7 @@ Where:
 
 ```bash
 git clone <repository-url>
-cd Project-5-Car-Speed
+cd Real-Time Vehicle Speed & Number Plate Detection using YOLOv11
 ````
 
 ---
